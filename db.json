@@ -15,20 +15,5 @@
       "username": "ludovick",
       "password": "tuna"
     }
-  ],
-
-  "location" : [
-    {
-      "id": 1,
-      "name" : "Maison"
-    },
-    {
-      "id": 2,
-      "name" : "Chalet"
-    },
-    {
-      "id": 3,
-      "name" : "Garage"
-    }
   ]
 }
