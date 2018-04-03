@@ -1,0 +1,34 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "username": "alex",
+      "password": "panda"
+    },
+    {
+      "id": 2,
+      "username": "melissa",
+      "password": "koala"
+    },
+    {
+      "id": 3,
+      "username": "ludovick",
+      "password": "tuna"
+    }
+  ],
+
+  "location" : [
+    {
+      "id": 1,
+      "name" : "Maison"
+    },
+    {
+      "id": 2,
+      "name" : "Chalet"
+    },
+    {
+      "id": 3,
+      "name" : "Garage"
+    }
+  ]
+}
