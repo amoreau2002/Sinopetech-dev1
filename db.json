@@ -15,9 +15,9 @@
       "username": "ludovick",
       "password": "tuna"
     }
-  ],
+  ]
 
-  "location" : [
+  "location": [
     {
       "id": 1,
       "name" : "Maison",
