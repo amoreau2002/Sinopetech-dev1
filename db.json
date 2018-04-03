@@ -15,5 +15,23 @@
       "username": "ludovick",
       "password": "tuna"
     }
+  ],
+  
+    "location" : [
+    {
+      "id": 1,
+      "name" : "Maison",
+      "user_id_fk" : 1
+    },
+    {
+      "id": 2,
+      "name" : "Chalet",
+      "user_id_fk" : 2
+    },
+    {
+      "id": 3,
+      "name" : "Garage",
+      "user_id_fk" : 1
+    }
   ]
 }
