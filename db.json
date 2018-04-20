@@ -7,11 +7,16 @@
     },
     {
       "id": 2,
+      "username": "alex",
+      "password": "panda"
+    },
+    {
+      "id": 3,
       "username": "melissa",
       "password": "koala"
     },
     {
-      "id": 3,
+      "id": 4,
       "username": "ludovick",
       "password": "tuna"
     }
