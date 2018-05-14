@@ -38,5 +38,24 @@
       "name" : "Garage",
       "user_id_fk" : 1
     }
+  ],
+  
+    "room" : [
+    {
+      "id": 1,
+      "name" : "Salon"
+    },
+    {
+      "id": 2,
+      "name" : "Chambre principale"
+    },
+    {
+      "id": 3,
+      "name" : "Garage"
+    },
+    {
+      "id": 4,
+      "name" : "Salle de bain"
+    }
   ]
 }
