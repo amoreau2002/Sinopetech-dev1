@@ -28,6 +28,9 @@
       "account$id": 10,
       "name" : "Maison",
       "postalCode": "J0S1T0",
+      "city": "Saint-Louis-de-Gonzague",
+      "country": "Canada",
+      "icon": 1,
       "mode": 1,
       "user_id_fk" : 1
     },
@@ -36,6 +39,9 @@
       "account$id": 20,
       "name" : "Chalet",
       "postalCode": "J6T4T2",
+      "city": "Valleyfield",
+      "country": "Canada",
+      "icon": 2,
       "mode": 1,
       "user_id_fk" : 2
     },
@@ -44,6 +50,9 @@
       "account$id": 30,
       "name" : "Garage",
       "postalCode": "J7R5Y8",
+      "city": "Saint-Eustache",
+      "country": "Canada",
+      "icon": 3,
       "mode": 1,
       "user_id_fk" : 1
     }
