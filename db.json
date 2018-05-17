@@ -25,17 +25,26 @@
     "location" : [
     {
       "id": 1,
+      "account$id": 10,
       "name" : "Maison",
+      "postalCode": "J0S1T0",
+      "mode": 1,
       "user_id_fk" : 1
     },
     {
       "id": 2,
+      "account$id": 20,
       "name" : "Chalet",
+      "postalCode": "J6T4T2",
+      "mode": 1,
       "user_id_fk" : 2
     },
     {
       "id": 3,
+      "account$id": 30,
       "name" : "Garage",
+      "postalCode": "J7R5Y8",
+      "mode": 1,
       "user_id_fk" : 1
     }
   ],
