@@ -157,5 +157,36 @@
       "order" : 5,
       "associatedDevice": [10,13]
     }
-  ]
+  ],
+  
+  "scene" : [
+    {
+      "id": 1,
+      "name" : "Scene Good morning"
+    },
+    {
+      "id": 2,
+      "name" : "Scene Im leaving"
+    },
+    {
+      "id": 3,
+      "name" : "Scene I arrive"
+    },
+    {
+      "id": 4,
+      "name" : "Scene good night"
+    },
+    {
+      "id": 5,
+      "name" : "Scene Ecouter la TV"
+    },
+    {
+      "id": 6,
+      "name" : "Lumiere 1 salon"
+    },
+    {
+      "id": 7,
+      "name" : "Voyage"
+    }
+   ]
 }
