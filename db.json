@@ -155,13 +155,7 @@
       "id": 5,
       "name" : "Salle de bain",
       "order" : 5,
-      "associatedDevice": []
-    },
-    {
-      "id": 6,
-      "name" : "Patate sauce",
-      "order" : 6,
-      "associatedDevice": []
+      "associatedDevice": [10,13]
     }
   ]
 }
