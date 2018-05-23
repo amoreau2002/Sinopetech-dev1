@@ -62,37 +62,37 @@
     {
       "id": 1,
       "name" : "Lumiere 1 salon",
-      "type" : "lightswitch"
+      "type" : 1
     },
     {
       "id": 2,
       "name" : "Lumiere 2 salon",
-      "type" : "lightswitch"
+      "type" : 1
     },
     {
       "id": 3,
       "name" : "Lumiere 3 salon",
-      "type" : "lightswitch"
+      "type" : 1
     },
     {
       "id": 4,
       "name" : "Lumiere 4 salon",
-      "type" : "lightswitch"
+      "type" : 1
     },
     {
       "id": 5,
       "name" : "Lumiere 5 salon",
-      "type" : "lightswitch"
+      "type" : 1
     },
     {
       "id": 6,
       "name" : "Lumiere 6 salon",
-      "type" : "lightswitch"
+      "type" : 1
     },
     {
       "id": 7,
       "name" : "Lumiere 1 chambre",
-      "type" : "lightswitch"
+      "type" : 1
     },
     {
       "id": 8,
@@ -102,27 +102,27 @@
     {
       "id": 9,
       "name" : "Lumiere 1 garage",
-      "type" : "lightswitch"
+      "type" : 1
     },
     {
       "id": 10,
       "name" : "Lumiere 1 salle de bain",
-      "type" : "lightswitch"
+      "type" : 1
     },
     {
       "id": 11,
       "name" : "Thermostat 1 salon",
-      "type" : "thermostat"
+      "type" : 2
     },
     {
       "id": 12,
       "name" : "Thermostat 1 chambre",
-      "type" : "thermostat"
+      "type" : 2
     },
     {
       "id": 13,
       "name" : "Thermostat 1 salle de bain",
-      "type" : "thermostat"
+      "type" : 2
     }
   ],
   
