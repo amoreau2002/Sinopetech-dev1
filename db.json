@@ -129,23 +129,28 @@
     "room" : [
     {
       "id": 1,
-      "name" : "All"
+      "name" : "All",
+      "order" : 1
     },
     {
       "id": 2,
-      "name" : "Salon"
+      "name" : "Salon",
+      "order" : 2
     },
     {
       "id": 3,
-      "name" : "Chambre"
+      "name" : "Chambre",
+      "order" : 3
     },
     {
       "id": 4,
-      "name" : "Garage"
+      "name" : "Garage",
+      "order" : 4
     },
     {
       "id": 5,
-      "name" : "Salle de bain"
+      "name" : "Salle de bain",
+      "order" : 5
     }
   ]
 }
