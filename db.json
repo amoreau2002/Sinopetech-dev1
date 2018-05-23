@@ -97,7 +97,7 @@
     {
       "id": 8,
       "name" : "Lumiere 2 chambre",
-      "type" : "lightswitch"
+      "type" : 1
     },
     {
       "id": 9,
