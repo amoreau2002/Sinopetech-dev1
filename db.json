@@ -129,7 +129,7 @@
     "room" : [
     {
       "id": 1,
-      "name": "All"
+      "name" : "All"
     },
     {
       "id": 2,
